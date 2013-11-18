@@ -2,10 +2,10 @@ Neilsen heuristics:
 ok	Visibility of system status 
 	Match between system and the real world
 	User control and freedom
-	Consistency and standards
+ok?	Consistency and standards
 ok?	Error prevention
 ok	Recognition rather than recall
-	Flexibility and efficiency of use
+ok?	Flexibility and efficiency of use
 ok	Aesthetic and minimalist design
 	Help users recognize, diagnose, and recover from errors
 	Help and documentation
@@ -14,3 +14,4 @@ Notes:
 
 Todo:
 - poprawic ten jeden ekran, gdzie po dodaniu "trening silowy" znika ikona ustawien
+- dodac przycisk '?' - help (do ktorych ekranow? z czym polaczony?)
